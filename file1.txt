@@ -1,3 +1,5 @@
 Content of this file belongs to file1
 
 This file is modified.
+
+This time the file is being modified for understanding the interactive staging
